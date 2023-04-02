@@ -745,6 +745,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [snmalloc](https://github.com/microsoft/snmalloc) - Message passing based high-performance allocator. [MIT]
 * [TCMalloc](https://github.com/google/tcmalloc) - Google's fast, multi-threaded malloc implementation. [Apache-2.0] [website](https://google.github.io/tcmalloc/)
 * [tgc](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. [BSD]
+* [MemoryPool](https://github.com/cacay/MemoryPool.git) - An easy to use and efficient memory pool allocator written in C++. [MIT]
 
 ## Multimedia
 
