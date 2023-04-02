@@ -129,6 +129,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Artificial Intelligence
 
 * [ANNetGPGPU](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. [LGPL]
+* [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP.git) - Behavior Trees Library in C++. Batteries included. [MIT]
 * [btsk](https://github.com/aigamedev/btsk) - Game Behavior Tree Starter Kit. [zlib]
 * [Evolving Objects](http://eodev.sourceforge.net/) - A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast. [LGPL]
 * [frugally-deep](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras models in C++. [MIT]
